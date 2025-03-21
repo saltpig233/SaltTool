@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="background">
+    <file>logo2.png</file>
     <file>logo.jpg</file>
     <file>哔哩哔哩.png</file>
     <file>SaltGame.jpg</file>
