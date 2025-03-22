@@ -16,7 +16,6 @@ pause >nul
 git push
 
 :: 可视化列出git log
-git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-
+git log --graph --oneline
 :: 暂停以查看结果
-pause    
+pause
